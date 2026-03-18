@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "エンドレス",
   "base_artist": "サカナクション",
-  "createdAt": "2026-02-06T20:09:22.077427Z",
+  "createdAt": "2026-03-18T00:10:45.627227Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -155,6 +155,15 @@
       "artist": "サカナクション",
       "has_synced": false,
       "path": "select/pl_01_エンドレス_サカナクション.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "エンドレス",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/localdb_01_エンドレス_サカナクション.lrc",
+      "repo_name": "AxT9pSLLTE8"
     }
   ]
 }
